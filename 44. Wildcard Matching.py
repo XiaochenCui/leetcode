@@ -35,4 +35,4 @@ class Solution(object):
 
 if __name__ == '__main__':
     r = Solution.isMatch(Solution(), 'aab', 'c*a*b')
-    print r
+    print()
